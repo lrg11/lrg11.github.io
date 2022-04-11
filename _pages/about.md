@@ -10,3 +10,4 @@ redirect_from:
 
 This is Rong Loney's home on the web
 
+Lorem ipsum.
