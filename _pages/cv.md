@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * Summer 2017: Research Intern
-  * Tingshua University
+  * Tsinghua University
   * Duties included: Soc design
   * Supervisor: Professor Huang
   
