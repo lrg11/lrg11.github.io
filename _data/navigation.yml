@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Hobby"
+  - title: "Res Doc"
     url: /publications/
 
   - title: "Digital Tech"
@@ -8,11 +8,16 @@ main:
 
   - title: "Studying"
     url: /teaching/    
-    
         
   - title: "Tech Blog"
-    url: /year-archive/
+    url: /portfolio/
+    
+  - title: "Hobby"
+    url: /teaching/  
     
   - title: "CV"
     url: /cv/
+    
+  - title: "Guide"
+    url: /markdown/
     
