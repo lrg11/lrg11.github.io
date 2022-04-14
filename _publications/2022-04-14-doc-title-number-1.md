@@ -10,4 +10,4 @@ citation: 'View Here'
 ---
 This doc is about the benchmarking crimes. 
 
-[Download doc here](http://lrg11.github.io/files/ben_crim.pdf)
+[Read & Download doc here](http://lrg11.github.io/files/ben_crim.pdf)
