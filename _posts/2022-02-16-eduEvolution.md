@@ -1,7 +1,7 @@
 ---
-title: 'Blog Post number 2'
+title: 'Evolution of educational equity'
 date: 2022-02-16
-permalink: /posts/2022/02/blog-post-2/
+permalink: /posts/2022/02/eduEvolution/
 tags:
   - education
   - RPC
