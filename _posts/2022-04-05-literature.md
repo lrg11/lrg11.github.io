@@ -1,7 +1,7 @@
 ---
-title: 'Blog Post number 4'
+title: 'Literature management'
 date: 2022-04-05
-permalink: /posts/2022/04/blog-post-4/
+permalink: /posts/2022/04/literature/
 tags:
   - 文献管理
   - 交叉引用
