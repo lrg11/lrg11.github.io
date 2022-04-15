@@ -5,4 +5,4 @@ collection: portfolio
 ---
 
 Below is some moments I recorded swimming. 
-<img src='/images/20km-badge.png'>
+<br/><img src='/images/20km-badge.jpg'>
