@@ -1,5 +1,5 @@
 ---
-title: "Doc Title Number 1"
+title: "Benchmarking flaws"
 collection: publications
 permalink: /publication/2022-04-14-doc-title-number-1
 excerpt: 'complete  relevant  soundness, reproducible is the requirements that a good paper should meet, but unfortunately experience shows that this is often hard to comeby in practice. Most papers violate these properties is called commiting a number of benchmarking crimes/flaws.'
