@@ -1,8 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Gym fitness"
+excerpt: "Anaerobic exercise in the gym can shape muscles well, which is suitable for increasing muscle and releasing pressure"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
-<img src='/images/20km-badge.png'>
+The following are my records of rolling iron in the school gym for half a year. In this process, I enjoy pain.
+<img src='/images/fitness-month.png'>
