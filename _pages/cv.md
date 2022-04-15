@@ -33,24 +33,36 @@ Skills
   * Ball Sports
 * Smart Phone Test
 
-Hobby
-======
-  <ul>{% for post in site. %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Digital Tech
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
+Tech Blog
+======
+  <ul>{% for post in site.year-archive %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Hobby
+======
+  <ul>{% for post in site.portfolio %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Res Doc
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+ 
 Studying
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+ 
 Service and leadership
 ======
 * Wuhan technology museum volunteer
