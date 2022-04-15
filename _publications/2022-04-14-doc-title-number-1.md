@@ -6,7 +6,7 @@ excerpt: 'This doc is about the number 1. The number 2 is left for future work.'
 date: 2022-04-14
 venue: '04 13'
 paperurl: 'http://lrg11.github.io/files/ben_crim.pdf'
-citation: '&quot;View Here &quot;'
+citation: 'Your Name, You. (2015). &quot;View Here. &quot; <i>Journal 1</i>. 1(3).'
 ---
 This doc is about the benchmarking crimes. 
 
