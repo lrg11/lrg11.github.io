@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+You can find out the PDF format ([English version](https://github.com/lrg11/lrg11.github.io/blob/master/rong-cv-en.pdf), [Chinese version](https://github.com/lrg11/lrg11.github.io/blob/master/rong-cv-cn.pdf)).
+
 Education
 ======
-* B.S. in CS, HUST, 2017
-* M.S. in Computer Architecture, Beijing University, 2021
 * Ph.D in Computer Science, ETH, 2024 (expected)
+* M.S. in Computer Architecture, Beijing University, 2021
+* B.S. in CS, HUST, 2017
 
 Work experience
 ======
@@ -33,7 +35,7 @@ Skills
 
 Hobby
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site. %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
@@ -51,4 +53,4 @@ Studying
   
 Service and leadership
 ======
-* Currently signed in to 19 different slack teams
+* Wuhan technology museum volunteer
