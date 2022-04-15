@@ -41,7 +41,7 @@ Digital Tech
 
 Tech Blog
 ======
-  <ul>{% for post in site.year-archive %}
+  <ul>{% for post in site.posts %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
