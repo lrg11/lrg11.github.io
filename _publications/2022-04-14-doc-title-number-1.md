@@ -2,14 +2,22 @@
 title: "Doc Title Number 1"
 collection: publications
 permalink: /publication/2022-04-14-doc-title-number-1
-excerpt: 'This doc is about the number 1. The number 2 is left for future work.'
+excerpt: 'complete  relevant  soundness, reproducible is the requirements that a good paper should meet, but unfortunately experience shows that this is often hard to comeby in practice. Most papers violate these properties is called commiting a number of benchmarking crimes/flaws.'
 date: 2022-04-14
 venue: '04 13'
-paperurl: 'http://lrg11.github.io/files/ben_crim.pdf'
-citation: 'Your Name, You. (2015). &quot;View Here. &quot; <i>Journal 1</i>. 1(3).'
+#paperurl: 'http://lrg11.github.io/files/ben_crim.pdf'
 ---
 This doc is about the benchmarking crimes. 
 
+When reviewing systems papers (and sometimes even when reading published papers) I frequently come across highly misleading use of benchmarks. I'm not saying that the authors intend to mislead the reader, it's just as likely incompetence
+
+Benchmarking crimes include:
++ Selective benchmarking
++ Improper handling of benchmark results
++ Using the wrong benchmarks
++ Improper comparison of benchmark results
++ Missing information
++ ...
 [Read & Download doc here](http://lrg11.github.io/files/ben_crim.pdf)
 
 Recommended citation: Your Name, You. (2022). "Doc Title Number 1." <i>Journal 1</i>. 1(3).
