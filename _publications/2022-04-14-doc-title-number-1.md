@@ -11,3 +11,5 @@ citation: '&quot;View Here &quot;'
 This doc is about the benchmarking crimes. 
 
 [Read & Download doc here](http://lrg11.github.io/files/ben_crim.pdf)
+
+Recommended citation: Your Name, You. (2022). "Doc Title Number 1." <i>Journal 1</i>. 1(3).
