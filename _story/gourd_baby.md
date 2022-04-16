@@ -15,10 +15,10 @@ The fourth baby, the ability is to control fire, pure fire, just Yang flame. The
 ### 5.Cyan baby
 The fifth baby, who is angry and can control the water, suffered physical damage after drinking the black and smelly water prepared by the goblin. In this world like a dye vat, a pool of clear water is the easiest to get color.
 
->(# 金刚葫芦娃（葫芦小金刚） 社会课
+> # 金刚葫芦娃（葫芦小金刚） 社会课
 
 ### 1.红娃
-)
+
 大娃的能力是翻天掀地，力大无穷，妖精对付他的方法是用金钱，无休止的砸钱。自古以来没有金钱就无法生存，能力再强的人也难逃被金钱所诱惑
 
 ### 2.橙娃
