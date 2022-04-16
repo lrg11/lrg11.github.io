@@ -15,7 +15,7 @@ The fourth baby, the ability is to control fire, pure fire, just Yang flame. The
 ### 5.Cyan baby
 The fifth baby, who is angry and can control the water, suffered physical damage after drinking the black and smelly water prepared by the goblin. In this world like a dye vat, a pool of clear water is the easiest to get color.
 
-> {# 金刚葫芦娃（葫芦小金刚） 社会课
+>{# 金刚葫芦娃（葫芦小金刚） 社会课
 
 ### 1.红娃
 }
