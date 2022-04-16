@@ -1,0 +1,12 @@
+---
+layout: archive
+title: "Story"
+permalink: /story/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for post in site.story reversed %}
+  {% include archive-single.html %}
+{% endfor %}
