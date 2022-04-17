@@ -2,9 +2,9 @@
 title: "BOOM_Explorer"
 collection: publications
 permalink: /publication/2022-04-17-BOOM_Explorer
-excerpt: 'complete  relevant  soundness, reproducible is the requirements that a good paper should meet, but unfortunately experience shows that this is often hard to comeby in practice. Most papers violate these properties is called commiting a number of benchmarking crimes/flaws...'
+excerpt: 'The Pareto design of RISCV BOOM gives some directions about optimizing BOOM microarchitecture withon performance-power design space...'
 date: 2022-04-17
-venue: '04 13'
+venue: '04 17'
 #paperurl: 'http://lrg11.github.io/files/ben_crim.pdf'
 ---
 This doc is about the BOOM Explorer. 
