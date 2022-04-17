@@ -1,8 +1,8 @@
 ---
-title: "Benchmarking flaws"
+title: "Benchmarking crimes/flaws"
 collection: publications
 permalink: /publication/2022-04-14-benchmarking
-excerpt: 'complete  relevant  soundness, reproducible is the requirements that a good paper should meet, but unfortunately experience shows that this is often hard to comeby in practice. Most papers violate these properties is called commiting a number of benchmarking crimes/flaws...'
+excerpt: 'Complete  relevant  soundness, reproducible is the requirements that a good paper should meet, but unfortunately experience shows that this is often hard to comeby in practice. Most papers violate these properties is called commiting a number of benchmarking crimes/flaws...'
 date: 2022-04-14
 venue: '04 13'
 #paperurl: 'http://lrg11.github.io/files/ben_crim.pdf'
